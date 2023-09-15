@@ -1,0 +1,9 @@
+{% extends 'common/layout.html' %}
+{% block content %}
+    <h1>Welcome sample page.</h1>
+    <ul>
+        {% for hoge_list in hoge_lists %}
+            <li>{{ hoge_list.hoge }}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
