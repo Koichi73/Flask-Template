@@ -2,7 +2,7 @@
 flaskを用いた中規模なアプリ開発用のテンプレートです。
 
 ## Detail
-https://qiita.com/Koichi37/items/9d73f062f0ad56d6f953
+https://qiita.com/Koichi73/items/9d73f062f0ad56d6f953
 
 ## Getting Started
 このテンプレートをローカル環境で設定する手順を以下に示します。
